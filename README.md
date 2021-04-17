@@ -1,5 +1,5 @@
 # Gileno
-Analista de Redes, amante de sitemas linux e desenvolvedor de software.
+Hi, i am Gileno  Currently completing graduation in systems analysis and development, working with Network Analyst, Lover of Linux and Open Source distributions, Python Developer and always seeking to update himself.
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <link src="https://www.linkedin.com/in/gileno-cordeiro-duarte-75913a164/">
