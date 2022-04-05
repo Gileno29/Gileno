@@ -4,9 +4,12 @@
 </div>
 Hi, i am Gileno  currently completing graduation in systems analysis and development, working with Infrastructure analyst, Lover of Linux and Open Source distributions, Python Developer and always seeking to update himself.
 
+<div>
 <a href=https://www.linkedin.com/in/gileno-cordeiro-duarte-75913a164/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a>
+</div>
+  
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 
 
