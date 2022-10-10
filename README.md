@@ -2,7 +2,7 @@
 <div>
   <img width=400 src=https://64.media.tumblr.com/668d105fc2701311bfcef33d2771a40e/370b02f259511df9-d6/s1280x1920/b22c8e6e834c0722cf2951aedfcb90bddfef8f87.gif>
 </div>
-Hi, i am Gileno  currently completing graduation in systems analysis and development, working with Programer , Lover of Linux and Open Source distributions, Python Developer Aspiring SRE  and always seeking to update himself.
+Hi, I'm Gileno I'm graduated emm analysis and development systems, currently working co mo programmer, reinzando migracao data between systems, passionate about Open Source and Culture DevOps.
 
 <div>
 <a href=https://www.linkedin.com/in/gileno-cordeiro-duarte-75913a164/>
