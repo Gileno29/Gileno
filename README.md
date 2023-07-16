@@ -23,7 +23,7 @@ Hi, I'm Gileno graduated in analysis and development of systems, currently worki
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GO](src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white")
+  ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
  
 
