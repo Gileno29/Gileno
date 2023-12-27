@@ -35,8 +35,6 @@ Hello, I'm Gileno, a graduate in Systems Analysis and Development, currently wor
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
 </div>
 
- 
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gileno29&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gileno29&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gileno29&langs_count=8&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
