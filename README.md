@@ -14,7 +14,6 @@ Hello, I'm Gileno, a graduate in Systems Analysis and Development, currently wor
 
 
 # Technologies & Tools
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
 <div style="display: inline_block"><br>
   <img align="center" alt="GitLab CI" height="30" width="80" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"> 
   <img align="center" alt="Django" height="30" width="80" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
