@@ -28,6 +28,8 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
   <img height="30" width="80" margin-bottom=10px width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img  src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img align="center" alt="Django" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"/>
+  <img align="center" alt="Django Rest" height="40" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original-wordmark.svg" />
+          
   <img align="center" alt="Nginx" height="40" width="90" margin-bottom=10px  margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
           
   
