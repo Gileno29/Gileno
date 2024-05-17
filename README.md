@@ -25,7 +25,7 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
   <img align="center" alt="Shell Script" height="30" margin-bottom=10px width="80" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" alt="Flask" height="30" width="80" margin-bottom=10px width="80" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img align="center" alt="Git" height="30" width="80" margin-bottom=10px width="80" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+  <img height="30" width="80" margin-bottom=10px width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Go" height="30" width="80" margin-bottom=10px width="80" margin-top="10" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img align="center" alt="AWS" height="30" width="80" margin-bottom=10px width="80" margin-top="10" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
   
