@@ -13,6 +13,7 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
   
 # Technologies & Tools
 <div style="display: inline_block"><br>
+</div>
   <img align="center" alt="GitLab" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />        
   <img align="center" alt="PostgreSQL" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="MySQL" height="30" width="80" margin-bottom=10px width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -36,7 +37,7 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
   <!--<img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->  
   <!--<img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-->
-</div>
+
 
 <div style="magin-top:20">
   
