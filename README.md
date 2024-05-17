@@ -5,7 +5,7 @@
 I'm Gileno, i have a degree in systems analysis and development from IFRN and I am currently pursuing a postgraduate degree in software engineering from Faculdade União Das Américas. I have a strong background in service management in Linux/Unix environments and software development. Experience in process automation, database management and code versioning, RESTful API development, Docker and application containerization, web servers, and cloud computing. I am motivated by delivering results and solving problems with technology.
 
 <div  style="display: flex">
-<a href=https://www.linkedin.com/in/gileno-cordeiro-duarte-75913a164/>
+<a margin-top=10px href=https://www.linkedin.com/in/gileno-cordeiro-duarte-75913a164/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a>
 </div>
@@ -14,7 +14,7 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
 # Technologies & Tools
 <div style="display: flex"><br>
 
-  <img align="center" alt="GitLab" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />        
+  <img  align="center" alt="GitLab" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />        
   <img align="center" alt="PostgreSQL" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="MariaDB" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
   <img  align="center" alt="MariaDB" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
