@@ -20,7 +20,6 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
   <img  align="center" alt="MariaDB" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="C++" height="50" width="100" margin-bottom=10px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />        
   <img align="center" alt="Python" height="40" width="90" margin-bottom=10px width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="JS" height="30" width="80" margin-bottom=10px width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img  align="center" alt="Docker" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /> 
   <img align="center" alt="Linux" height="50" width="100" margin-bottom=10px  margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>       
   <img align="center" alt="Shell" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />        
