@@ -1,7 +1,7 @@
 
 <div>
-  <img style="border-radius: 50%, 100%, 100%,100%" width=400 src=https://64.media.tumblr.com/668d105fc2701311bfcef33d2771a40e/370b02f259511df9-d6/s1280x1920/b22c8e6e834c0722cf2951aedfcb90bddfef8f87.gif>
-  <img style="border-radius: 50%" width=400 src=https://64.media.tumblr.com/7d44522a6bfc1770cf0037928a60e125/tumblr_mm371a40941rfjowdo1_500.gif>
+  <img style="border-radius: 50%;" height="auto" width=400 src=https://64.media.tumblr.com/668d105fc2701311bfcef33d2771a40e/370b02f259511df9-d6/s1280x1920/b22c8e6e834c0722cf2951aedfcb90bddfef8f87.gif>
+  <img style="border-radius: 50%;" height="auto" width=400 src=https://64.media.tumblr.com/7d44522a6bfc1770cf0037928a60e125/tumblr_mm371a40941rfjowdo1_500.gif>
 </div>
 <p style="text-align:justify"> I'm Gileno, i have a degree in systems analysis and development from IFRN and I am currently pursuing a postgraduate degree in software engineering from Faculdade União Das Américas. I have a strong background in service management in Linux/Unix environments and software development. Experience in process automation, database management and code versioning, RESTful API development, Docker and application containerization, web servers, and cloud computing. I am motivated by delivering results and solving problems with technology.</p>
 
