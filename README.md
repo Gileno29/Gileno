@@ -12,7 +12,7 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
 
   
 # Technologies & Tools
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
 
   <img align="center" alt="GitLab" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />        
   <img align="center" alt="PostgreSQL" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
