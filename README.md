@@ -4,7 +4,7 @@
 </div>
 I'm Gileno, i have a degree in systems analysis and development from IFRN and I am currently pursuing a postgraduate degree in software engineering from Faculdade União Das Américas. I have a strong background in service management in Linux/Unix environments and software development. Experience in process automation, database management and code versioning, RESTful API development, Docker and application containerization, web servers, and cloud computing. I am motivated by delivering results and solving problems with technology.
 
-<div>
+<div  style="display: flex">
 <a href=https://www.linkedin.com/in/gileno-cordeiro-duarte-75913a164/>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a>
