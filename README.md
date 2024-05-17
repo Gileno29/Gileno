@@ -16,7 +16,7 @@ I'm Gileno, i have a degree in systems analysis and development from IFRN and I 
 
   <img align="center" alt="GitLab" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" />        
   <img align="center" alt="PostgreSQL" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align="center" alt="MySQL" height="30" width="80" margin-bottom=10px width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img align="center" alt="MariaDB" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
   <img align="center" alt="C++" height="30" width="80" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Python" height="40" width="90" margin-bottom=10px width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="JS" height="30" width="80" margin-bottom=10px width="80" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
