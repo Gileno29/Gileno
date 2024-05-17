@@ -6,7 +6,7 @@
 
 <div  style="display: flex">
 <a margin-top=10px href=https://www.linkedin.com/in/gileno-cordeiro-duarte-75913a164/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+  <img height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 <a>
 </div>
 
