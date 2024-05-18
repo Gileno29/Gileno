@@ -33,8 +33,7 @@
   <img align="center" alt="Flask" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
   <img align="center" alt="Flask" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img  align="center" alt="Grafana" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
-          
-          
+  <img align="center" alt="Nginx" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />        
   <img align="center" alt="Nginx" height="50" width="100" margin-bottom=10px  margin-top="10" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
           
   </div>
