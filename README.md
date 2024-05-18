@@ -52,7 +52,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gileno29&theme=blue-green)
   ![Top Langs](	https://github-readme-stats.vercel.app/api/top-langs/?username=Gileno29&theme=blue-green)
 
-</div>]
+</div>
 
 ## Meus Trabalhos e/ou Projetos
 
